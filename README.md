@@ -1,4 +1,4 @@
-# notolens-com
+# notolens
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,98 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-notolens-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://notolens.com/
+notolens provides brand protection software that monitors new domain registrations across 1,570 TLDs, trademark registers, app stores and search ads, checking and explaining each match. It offers tools for AI agents and users to act on infringements, with pricing from $29/mo. The platform helps prevent brand impersonation and supports self‑guided takedown workflows.
+
+**Areas:** Brand Protection · Trademark Monitoring · Domain Monitoring · App Store Monitoring · Ad Monitoring · AI Assessment
+
+## notolens on APIs.io
+
+Everything profiled for notolens is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/notolens-com/](https://apis.io/providers/notolens-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Notolens API](https://apis.io/apis/notolens-com/notolens-api/) — Brand protection API documented at Notolens guides page.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [notolens Authentication](https://apis.io/security/notolens-com/notolens-com-authentication/)
+- [notolens Domain Security](https://apis.io/security/notolens-com/notolens-com-domain-security/)
+- [notolens Vulnerability Disclosure](https://apis.io/security/notolens-com/notolens-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [notolens Plans Pricing](https://apis.io/plans/notolens-com/notolens-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://notolens.com/)
+- [Documentation](https://notolens.com/guides)
+- [Pricing](https://notolens.com/pricing)
+- [Terms of service](https://notolens.com/terms)
+- [Privacy policy](https://notolens.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 24.2** — emerging · rubric 0.28.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 51.5 |
+
+**Agent readiness 21.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 25.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/notolens-com/](https://apis.io/providers/notolens-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for notolens: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/notolens-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
